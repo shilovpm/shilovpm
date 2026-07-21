@@ -31,7 +31,7 @@ Currently used by **34 users** with **21 active digests**.
 
 A self-hosted AI assistant for tailoring resumes and cover letters to specific job vacancies.
 
-<img src="./assets/vakanzo.png" alt="Vakanzo interface" width="100%">
+<img src="./assets/vakanzo.jpg" alt="Vakanzo interface" width="100%">
 
 - Compares a resume with a vacancy and explains strengths and gaps
 - Rewrites content without intentionally inventing experience
