@@ -27,6 +27,16 @@ Currently used by **34 users** with **21 active digests**.
 
 ---
 
+### [Job Offer Reviews Agent System](https://github.com/shilovpm/joboffer-reviews-agent-system)
+
+A multi-agent Codex research system for Product-focused employer evaluation. It uses an orchestrator → Collector → Analyzer architecture, role-based reasoning, structured context handoffs, adaptive evidence sampling, and deterministic Python validation.
+
+Built after reviewing public employer-research and career-agent implementations and identifying gaps in Product-specific evidence handling, multi-source validation, context isolation, incremental research, and auditability.
+
+**Focus:** Agent Skills · agent orchestration · subagents · reasoning routing · context engineering · Python · evidence systems
+
+---
+
 ### [Vakanzo](https://github.com/shilovpm/Vakanzo)
 
 A self-hosted AI assistant for tailoring resumes and cover letters to specific job vacancies.
