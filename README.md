@@ -37,6 +37,21 @@ Built after reviewing public employer-research and career-agent implementations 
 
 ---
 
+### [WEST time and timer](https://github.com/shilovpm/west-time-and-timer)
+
+A native macOS utility combining a persistent countdown timer with world clocks and desktop widgets.
+
+- Searches the full macOS IANA time-zone database, including cities and seasonal designations such as CET/CEST, EET/EEST, and WET/WEST
+- Shows each clock's live difference from the Mac time zone and handles DST automatically
+- Shares one deadline-based timer between the app and interactive WidgetKit widgets
+- Includes small, medium, and large clock widgets, plus a small timer widget
+- Supports 11 interface languages and system light/dark appearance
+- Works fully offline and ships as a self-contained Apple Silicon DMG
+
+**Built with:** Swift, SwiftUI, WidgetKit, App Intents, UserNotifications, and XCTest
+
+---
+
 ### [Vakanzo](https://github.com/shilovpm/Vakanzo)
 
 A self-hosted AI assistant for tailoring resumes and cover letters to specific job vacancies.
