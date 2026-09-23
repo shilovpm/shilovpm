@@ -41,11 +41,15 @@ Built after reviewing public employer-research and career-agent implementations 
 
 A native macOS utility combining a persistent countdown timer with world clocks and desktop widgets.
 
-<img src="https://raw.githubusercontent.com/shilovpm/west-time-and-timer/main/design/proposals/main-screen-approval-candidate-v2.png" alt="Approved WEST main-screen design preview" width="100%">
+| App · light | App · dark |
+| --- | --- |
+| ![WEST app in light appearance](https://raw.githubusercontent.com/shilovpm/west-time-and-timer/main/docs/screenshots/app_light.png) | ![WEST app in dark appearance](https://raw.githubusercontent.com/shilovpm/west-time-and-timer/main/docs/screenshots/app_dark.png) |
 
-<img src="https://raw.githubusercontent.com/shilovpm/west-time-and-timer/main/design/proposals/widget-approval-candidate-v2.png" alt="Approved WEST timer and world-clock widget designs" width="100%">
-
-<sub>Approved static design previews; sample times are illustrative. The shipped custom-time input uses dropdowns.</sub>
+| Widgets · light | Widgets · dark |
+| --- | --- |
+| ![Large world-clock widget in light appearance](https://raw.githubusercontent.com/shilovpm/west-time-and-timer/main/docs/screenshots/big_widget_light.png) | ![Large world-clock widget in dark appearance](https://raw.githubusercontent.com/shilovpm/west-time-and-timer/main/docs/screenshots/big_widget_dark.png) |
+| ![Medium world-clock widget in light appearance](https://raw.githubusercontent.com/shilovpm/west-time-and-timer/main/docs/screenshots/middle_widget_light.png) | ![Medium world-clock widget in dark appearance](https://raw.githubusercontent.com/shilovpm/west-time-and-timer/main/docs/screenshots/middle_widget_dark.png) |
+| ![Small timer widget in light appearance](https://raw.githubusercontent.com/shilovpm/west-time-and-timer/main/docs/screenshots/small_widget_light.png) | ![Small timer widget in dark appearance](https://raw.githubusercontent.com/shilovpm/west-time-and-timer/main/docs/screenshots/small_widget_dark.png) |
 
 - Searches the full macOS IANA time-zone database, including cities and seasonal designations such as CET/CEST, EET/EEST, and WET/WEST
 - Shows each clock's live difference from the Mac time zone and handles DST automatically
