@@ -41,6 +41,12 @@ Built after reviewing public employer-research and career-agent implementations 
 
 A native macOS utility combining a persistent countdown timer with world clocks and desktop widgets.
 
+<img src="https://raw.githubusercontent.com/shilovpm/west-time-and-timer/main/design/proposals/main-screen-approval-candidate-v2.png" alt="Approved WEST main-screen design preview" width="100%">
+
+<img src="https://raw.githubusercontent.com/shilovpm/west-time-and-timer/main/design/proposals/widget-approval-candidate-v2.png" alt="Approved WEST timer and world-clock widget designs" width="100%">
+
+<sub>Approved static design previews; sample times are illustrative. The shipped custom-time input uses dropdowns.</sub>
+
 - Searches the full macOS IANA time-zone database, including cities and seasonal designations such as CET/CEST, EET/EEST, and WET/WEST
 - Shows each clock's live difference from the Mac time zone and handles DST automatically
 - Shares one deadline-based timer between the app and interactive WidgetKit widgets
